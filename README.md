@@ -1,4 +1,4 @@
-#Curso de Git e Github - Projeto: Número secreto
+<h1 style="text-align:center">Curso de Git e Github - Projeto: Número secreto</h1>
 
 O curso abraange de forma clara e dinâmica, como trabalhar com o Git e Github de maneira individual e colaborativa, para que possamos subir nossos projetos, realizar commits e resolução de conflitos. Segue alguns tópicos abordados:
 
